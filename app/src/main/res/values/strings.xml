@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Reminder App</string>
+    <string name="teit_error_text">يجب كتابة التفاصيل</string>
+    <string name="del_reminder_dialog_negative_button">الغاء</string>
+    <string name="ra_empty_state_title">لا يوجد مناسبات</string>
+    <string name="ra_empty_state_text">اضف مناسبة وسوف تظهر هنا</string>
+    <string name="ra_copy_confirmation_text">تم النسخ</string>
+    <string name="delete_reminder_dialog_title">مسح المناسبة</string>
+    <string name="delete_reminder_dialog_message">لا يمكن استرجاع المناسبة مره اخري</string>
+    <string name="delete_reminder_dialog_positive_button">مسح</string>
+    <string name="copy">نسخ</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">مسح</string>
+    <string name="new_reminder">مناسبة جديدة</string>
+    <string name="reminder_set_c">تم التخزين</string>
+    <string name="channel_name">Reminder Notification</string>
+    <string name="channel_description">Reminders</string>
+    <string name="r_r_title">rRTitle</string>
+    <string name="notification_ctitle">Reminder</string>
+    <string name="title">أدخل تفاصيل المناسبة</string>
+
+
+    <string name="help_activity_action_bar_title">Help</string>
+    <string name="send_feedback">Send Feedback</string>
+
+    <string name="update_app_informative_text">A new version is available</string>
+    <string name="update_app_button_text">UPDATE</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
